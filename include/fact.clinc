@@ -1,0 +1,5 @@
+(
+    (defun fact (X)
+      (if (= X 1) 1 (* X (fact (- X 1))))
+      )
+)
