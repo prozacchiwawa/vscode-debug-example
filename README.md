@@ -8,3 +8,5 @@ The debug adapter uses chialisp.json to resolve include directories as does the 
 server.
 
 A makefile is provided which can rebuild the hex and symbol output.
+
+![Picture of debugging chialisp](https://github.com/prozacchiwawa/vscode-debug-example/blob/base/screen.png?raw=true)
